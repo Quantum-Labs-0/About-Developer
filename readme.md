@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 
 - 🌟 **Freelance Developer** with a focus on cross-platform development.
 - 🌐 **Experience** in building high-quality mobile applications using **Flutter** and **Firebase**.
-- 🎓 **Education**: [Your educational background, if applicable]
+- 🎓 **Education**: Computer Science
 - 🌱 **Currently Learning**: Advanced Flutter techniques and cloud integrations.
 - 💼 **Open to**: Freelance opportunities and collaborative projects.
 
@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=quantum-labs-0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-labs-0&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
