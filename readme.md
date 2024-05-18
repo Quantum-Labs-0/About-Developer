@@ -39,12 +39,10 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 ## 📫 How to reach me
 
 - **Email**: [quantumlaboratories38@gmail.com](mailto:quantumlaboratories@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ## 📝 Projects
 
-### [Project 1 Yogh](https://github.com/your-github-username/project1-repo)
+### [Project 1 -> Yogh](https://github.com/your-github-username/project1-repo)
 
 Built using Flutter for the front-end and Firebase for the back-end. The app allows users to create accounts, post photos, follow other users, like and comment on posts, and view a feed of posts from followed users.
 
@@ -90,7 +88,7 @@ Built using Flutter for the front-end and Firebase for the back-end. The app all
     Functions: Firebase Cloud Functions for handling backend logic like sending notifications.
     Notifications: Firebase Cloud Messaging (FCM) for sending push notifications to users.
 
-### [Project 2 BusyBee](https://github.com/your-github-username/project2-repo)
+### [Project 2 -> BusyBee](https://github.com/your-github-username/project2-repo)
 
 The app leverages Flutter for the front-end and Firebase for the back-end, offering functionalities such as user authentication, product listing, shopping cart, order processing, and inventory tracking.
 
@@ -151,7 +149,7 @@ The app leverages Flutter for the front-end and Firebase for the back-end, offer
     Notifications: Firebase Cloud Messaging (FCM) for push notifications.
     Payments: Integration with a payment gateway -> M-Pesa (like Stripe or PayPal) for handling transactions.
 
-### [Project 3 YL-Chat](https://github.com/your-github-username/project3-repo)
+### [Project 3 -> YL-Chat](https://github.com/your-github-username/project3-repo)
 
 # Features
 
