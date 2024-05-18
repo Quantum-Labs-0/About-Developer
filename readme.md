@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate freelance developer specializing 
 
 ## 📫 How to reach me
 
-- **Email**: [quantumlaboratories@gmail.com](mailto:quantumlaboratories@gmail.com)
+- **Email**: [quantumlaboratories38@gmail.com](mailto:quantumlaboratories@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
